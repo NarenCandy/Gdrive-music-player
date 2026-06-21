@@ -21,9 +21,9 @@ web-build/
 
 # Android
 android/app/build/
-android/.gradle/
+android/gradle/wrapper/gradle-wrapper.properties
 android/build/
-android/gradle/
+android/gradle/wrapper/gradle-wrapper.properties
 android/.idea/
 android/local.properties
 *.apk
