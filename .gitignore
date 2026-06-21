@@ -20,10 +20,10 @@ web-build/
 *.mobileprovision
 
 # Android
+# Android
 android/app/build/
-android/gradle/wrapper/gradle-wrapper.properties
+android/.gradle/
 android/build/
-android/gradle/wrapper/gradle-wrapper.properties
 android/.idea/
 android/local.properties
 *.apk
